@@ -89,7 +89,7 @@ For example, improving customer onboarding, accelerating product delivery, reduc
 
 Durable foundations may include:
 
-| Foundation Type | Organization-Neutral Example |
+| Foundation Type | Illustrative Foundation Pattern |
 |---|---|
 | Semantic foundation | Common meaning of customer, employee, partner, product, service, request, order, case, status, risk, decision, completion, exception, and outcome |
 | Identity and access foundation | Shared identity, profile, role, authorization, entitlement, delegation, account-linking, and access-control mechanics |
