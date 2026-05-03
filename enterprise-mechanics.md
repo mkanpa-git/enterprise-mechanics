@@ -451,9 +451,7 @@ There are different scopes of shared capability:
 | Enterprise-shared | Useful across many domains, functions, products, or journeys |
 | Platform-shared | Technical services operated for many consumers |
 
-Confusing these scopes causes harm. A mission-shared capability may not be appropriate as an enterprise-shared capability. A platform-shared service may not be a complete business capability. A domain-shared
-
-pattern may deserve federated governance rather than central ownership. An enterprise-shared capability may require product management, not just architecture approval.
+Confusing these scopes causes harm. A mission-shared capability may not be appropriate as an enterprise-shared capability. A platform-shared service may not be a complete business capability. A domain-shared pattern may deserve federated governance rather than central ownership. An enterprise-shared capability may require product management, not just architecture approval.
 
 Shared capability mechanics must address variation. Consumers rarely have identical needs. Some variation is legitimate. Some variation should be governed. Some variation should remain local. Some variation should be rejected because it would destroy the shared capability.
 
