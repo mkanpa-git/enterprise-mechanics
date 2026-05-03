@@ -15,6 +15,8 @@ This position paper begins from that question and introduces **Enterprise Mechan
 
 ## Core idea
 
+The paper redefines enterprise architecture around enterprise significance rather than scale, governance, or technology portfolio ownership.
+
 Enterprise architecture is the discipline of identifying enterprise-significant concerns and designing the durable strategy, operating model, coordination, semantic, shared capability, and assurance mechanics that allow the organization to act coherently where local optimization is insufficient.
 
 ## The six enterprise mechanics
