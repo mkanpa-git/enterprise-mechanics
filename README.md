@@ -3,6 +3,7 @@
 ## Re-founding Enterprise Strategy and Enterprise Architecture Around Significance, Coherence, and Durable Foundations
 
 **What must organizations learn to see before transformation becomes durable?**
+<br>
 **And what must enterprise architects help them see?**
 
 The answer is not merely systems, processes, technologies, or frameworks. It is whether we can see where the life of the whole is being weakened - where relationships have become brittle, where meaning no longer travels, where capabilities no longer reinforce one another, and where the organization can no longer act as a coherent living structure.
