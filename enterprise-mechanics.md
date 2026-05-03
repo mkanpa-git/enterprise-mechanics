@@ -171,9 +171,7 @@ If the answer is unclear, the work may still be valuable, but its enterprise con
 
 A concern has enterprise significance when no single domain is naturally positioned, funded, authorized, and incentivized to solve it consistently on behalf of the whole.
 
-Many enterprise problems remain unsolved not because teams lack skill, but because the incentive structure is local. A domain optimizes for its mission, product, budget, timeline, customer segment,
-
-technology stack, regulatory context, and operating constraints. It should not be expected to solve enterprise-wide semantics, reusable identity patterns, common documentation rules, shared assurance structures, or cross-domain coordination standards alone.
+Many enterprise problems remain unsolved not because teams lack skill, but because the incentive structure is local. A domain optimizes for its mission, product, budget, timeline, customer segment, technology stack, regulatory context, and operating constraints. It should not be expected to solve enterprise-wide semantics, reusable identity patterns, common documentation rules, shared assurance structures, or cross-domain coordination standards alone.
 
 The key question is:
 
