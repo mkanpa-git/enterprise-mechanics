@@ -11,7 +11,7 @@ This position paper begins from that question and introduces **Enterprise Mechan
 ## Read the paper
 
 - [Full paper in Markdown](enterprise-mechanics.md)
-- PDF version can be added to this repository as `enterprise-mechanics.pdf`
+- [Download the PDF](enterprise-mechanics.pdf)
 
 ## Core idea
 
