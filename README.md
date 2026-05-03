@@ -15,7 +15,7 @@ This position paper begins from that question and introduces **Enterprise Mechan
 
 ## Core idea
 
-Enterprise architecture becomes strategic when it helps an organization identify enterprise-significant concerns and design the durable mechanics by which distributed action becomes coherent, accountable, reusable, and durable where local action alone is insufficient.
+Enterprise architecture is the discipline of identifying enterprise-significant concerns and designing the durable strategy, operating model, coordination, semantic, shared capability, and assurance mechanics that allow the organization to act coherently where local optimization is insufficient.
 
 ## The six enterprise mechanics
 
